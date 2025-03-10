@@ -19,7 +19,7 @@ com.Library
 │── Classes         # Core entities (Book, Member, Librarian)
 │── Interfaces      # Defines behaviors (LibraryActions, UserActions)
 │── CustomExceptions # Handles errors (BookNotFoundException, etc.)
-│── Main            # Runs the application
+│── LibraryManagementSystem # Runs the application
 ```
 
 ### 📦 **Packages & Naming Conventions**
