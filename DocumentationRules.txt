@@ -1,0 +1,12 @@
+Documentation steps for any project:
+
+1.Project overview
+2.System requirements
+3.Usage
+4.Classes description
+5.Interfaces description
+6.Exceptions description
+7.Installation instructions
+//can add contribution->what others can contribute towards this project
+//can add future enhancements if required
+8.Conclusion
