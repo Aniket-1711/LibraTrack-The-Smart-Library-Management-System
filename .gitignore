@@ -27,3 +27,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore specific project folders
+emailapp/
+javaguiloginpage/
+My\ Java\ Projects.iml
